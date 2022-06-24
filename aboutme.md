@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 애매모호한 자
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+ambiguous
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+내가 막 코딩을 시작했을때 컴퓨터가 나에게 가장 많이 내뱉은 에러였다.
+더 짜증나는 것은 나도 내 코딩이 애매모호하다는 것을 직감할 때였다. 
+"아 또 에러가 나겠군" 라고 생각할때면 단 한번도 어김없이 에러가 났다.
 
-What else do you need?
+물리치료, 선교활동, 경제/경영학, 그리고 데이터 사이언스
 
-### My story
+내가 봐도 참 뜬금없고 연결성이 없는 이력이다싶다.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+이러한 이력때문에 독일에서는 일하기가 쉽지 않다.
+아담 스미스가 국부론에서 그렇게 강조한 "분업" 이라는 개념이 독일 기업에게 아주 깊게 박혀있어 한 분야에서 진득하게 파고 든 사람들을 선호한다.
+
+나는 누구인가?
+
+나는 애매모호한 자이다. 하지만 또한 All round Player다.
