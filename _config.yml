@@ -16,9 +16,6 @@ author: Shaoming
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -43,9 +40,6 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: "profile.php?id=100000692058371"
   github: "Thomaspiketty"
-  twitter: 
-  patreon: 
-  youtube: 
 #  medium: Somyeong Park
 #  reddit: Somyeong Park
 #  linkedin: 
